@@ -1,1 +1,2 @@
-ECHO is on.
+var name="shubham paul";
+console.log(name);
